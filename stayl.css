@@ -1,0 +1,12 @@
+input[type="text"]{
+    width: 285px;
+    height: 50px;
+}
+input[type="button"]{
+    width: 70px;
+    height: 40px;
+}
+form{
+ margin-left: 600px;
+margin-top: 200px;
+}
